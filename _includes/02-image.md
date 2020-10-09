@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Dorian popa in swimming pool](https://i.ytimg.com/vi/4Vx3P0SVeIw/maxresdefault.jpg)
